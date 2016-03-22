@@ -35,3 +35,7 @@ __BAK/
 2.7_MY2015/
 2.7_MY2016/
 Lib.7z
+*.zip
+Tools/
+man/
+share/
