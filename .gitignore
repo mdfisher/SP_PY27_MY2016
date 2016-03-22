@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
@@ -10,9 +11,11 @@ __pycache__/
 # before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
@@ -20,22 +23,27 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
+
 # Translations
 *.mo
 *.pot
-# Django stuff:
-*.log
+
+
+
 # Sphinx documentation
 docs/_build/
+
 # PyBuilder
 target/
 
+
 # MF -- My ignores.
 __BAK/
-2.7_MY2015/
-2.7_MY2016/
 Lib.7z
 *.zip
 Tools/
 man/
 share/
+_BAK/
+__BAK/
+__BAK__/
