@@ -41,9 +41,10 @@ target/
 __BAK/
 Lib.7z
 *.zip
-Tools/
+
 man/
 share/
 _BAK/
 __BAK/
 __BAK__/
+/Tools/
